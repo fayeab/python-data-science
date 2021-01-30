@@ -2,7 +2,9 @@
 [Analyse statistique multidimensionnelle](tutoriels/python-analyse-statistique-multidimensionnelle.ipynb)
 
 # Feature engineering
-[Gestion des variables catégorielles](tutoriels/python-encoding-variables-categorielles.ipynb)
+[Traitement des variables quantitatives](tutoriels/python-variables-quantitatives.ipynb)    
+[Gestion des variables qualitatives](tutoriels/python-encoding-variables-categorielles.ipynb)    
+
 
 # Interprétation des modèles
 [Interprétation des modèles avec LIME et SHAP](tutoriels/python-interpretabilite-des-modeles.ipynb)
