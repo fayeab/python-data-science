@@ -3,7 +3,8 @@
 
 # Feature engineering
 [Traitement des variables quantitatives](tutoriels/python-variables-quantitatives.ipynb)    
-[Gestion des variables qualitatives](tutoriels/python-encoding-variables-categorielles.ipynb)    
+[Gestion des variables qualitatives](tutoriels/python-encoding-variables-categorielles.ipynb)       
+[Sélection de variables](tutoriels/python-feature-selection.ipynb)
 
 
 # Interprétation des modèles
