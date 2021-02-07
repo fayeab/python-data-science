@@ -7,6 +7,10 @@
 [Sélection de variables](tutoriels/python-feature-selection.ipynb)
 
 
+# Apprentissage statistique
+[Apprentissage supervisé : classification et régression](tutoriels/python-classification-regression.ipynb)   
+[Apprentissage supervisé : méthodes ensemblistes](tutoriels/python-methodes-ensemblistes.ipynb)    
+
 # Interprétation des modèles
 [Interprétation des modèles avec LIME et SHAP](tutoriels/python-interpretabilite-des-modeles.ipynb)
 
