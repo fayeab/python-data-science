@@ -1,4 +1,5 @@
-# Exploration statistique
+# Exploration statistique  
+[Analyse univariée et bivariée](tutoriels/python-analyse-unvariee-bivariee.ipynb)  
 [Analyse statistique multidimensionnelle](tutoriels/python-analyse-statistique-multidimensionnelle.ipynb)
 
 # Feature engineering
@@ -8,6 +9,7 @@
 
 
 # Apprentissage statistique
+[Apprentissage non supervisé : kmeans et CAH](tutoriels/python-apprentissage-non-supervise.ipynb)    
 [Apprentissage supervisé : classification et régression](tutoriels/python-classification-regression.ipynb)   
 [Apprentissage supervisé : méthodes ensemblistes](tutoriels/python-methodes-ensemblistes.ipynb)    
 
