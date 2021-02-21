@@ -19,3 +19,7 @@
 # Réseaux de neurones
 [Auto-encodeurs](tutoriels/python-autoencodeurs.ipynb)     
 [Auto-encodeurs variationnels](tutoriels/python-autoencodeurs-variationnel.ipynb)
+
+
+# NLP (Traitement Automatique du Langage)
+[Le mécanisme d'attention](tutoriels/python-nlp-mecanisme-attention.ipynb) 
