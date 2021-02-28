@@ -22,4 +22,5 @@
 
 
 # NLP (Traitement Automatique du Langage)
-[Le mécanisme d'attention](tutoriels/python-nlp-mecanisme-attention.ipynb) 
+[Le mécanisme d'attention](tutoriels/python-nlp-mecanisme-attention.ipynb)   
+[Les transformers](tutoriels/python-nlp-transformers.ipynb)
