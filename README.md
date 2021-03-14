@@ -26,4 +26,5 @@
 [Long short-term memory (LSTM)](tutoriels/python-nlp-lstm.ipynb)  
 [Gated Recurrent Unit (GRU)](tutoriels/python-nlp-gru.ipynb)   
 [Le mécanisme d'attention](tutoriels/python-nlp-mecanisme-attention.ipynb)   
-[Les transformers](tutoriels/python-nlp-transformers.ipynb)
+[Les transformers](tutoriels/python-nlp-transformers.ipynb)  
+[Bidirectional Encoder Representations from Transformers (BERT)](tutoriels/python-nlp-bert.ipynb)  
